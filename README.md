@@ -5,4 +5,6 @@
 3.文章标签<br>
 4.Django Haystack 全文检索与关键词高亮<br>
 5.评论<br>
-6.还差login，email没完成<br>
+6.RSS订阅<br>
+7.还差login，email没完成<br>
+
